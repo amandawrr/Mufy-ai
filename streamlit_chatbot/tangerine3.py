@@ -29,7 +29,7 @@ if "completed_sessions" not in st.session_state:
 themes = {
     "Orange": {
         "primary": "#ff914d",
-        "background": "#fff5eb",
+        "background": "#fad7b4",
         "text": "#000000"
     },
     "Dark": {
