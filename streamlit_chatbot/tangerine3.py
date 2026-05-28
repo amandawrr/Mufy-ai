@@ -34,17 +34,17 @@ themes = {
     },
     "Dark": {
         "primary": "#ff914d",
-        "background": "#121212",
+        "background": "#4B4949",
         "text": "#030303FF"
     },
     "Ocean": {
         "primary": "#2196f3",
-        "background": "#e3f2fd",
+        "background": "#8aabc2",
         "text": "#000000"
     },
     "Forest": {
         "primary": "#2e7d32",
-        "background": "#e8f5e9",
+        "background": "#80a283",
         "text": "#000000"
     }
 }
