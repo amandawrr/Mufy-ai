@@ -35,7 +35,7 @@ themes = {
     "Dark": {
         "primary": "#ff914d",
         "background": "#121212",
-        "text": "#ffffff"
+        "text": "#030303FF"
     },
     "Ocean": {
         "primary": "#2196f3",
@@ -82,7 +82,7 @@ h1, h2, h3 {{
     justify-content: center;
     font-size: 42px;
     font-weight: bold;
-    color: black;
+    color: orange;
     box-shadow: 0 0 40px rgba(0,0,0,0.2);
 }}
 
