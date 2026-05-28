@@ -82,7 +82,7 @@ h1, h2, h3 {{
     justify-content: center;
     font-size: 42px;
     font-weight: bold;
-    color: white;
+    color: black;
     box-shadow: 0 0 40px rgba(0,0,0,0.2);
 }}
 
